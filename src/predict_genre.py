@@ -20,7 +20,7 @@ def load_keras_model(model_path='../model/'):
 def main(argv):
 
     if len(argv) != 1:
-        print("Usage: python3 predict_genre.py input-subtitle-path")
+        print("Usage: python2 predict_genre.py input-subtitle-path")
         exit()
 
     p = Preprocessor()      # Preprocessor is initialized

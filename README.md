@@ -5,7 +5,7 @@ Movie genre classification from movie subtitles is performed using NLP methods c
   
 **GENRES:** action - comedy - crime horror - musical - romance - war - western  
   
-**DATA**: 
+**DATA**: https://drive.google.com/uc?id=1ciBIQiH6foHanRrDQKr-_9MBWfOKVc9d&export=download
              
 ## Usage  
 $**python2**  predict_genre.py  input-subtitle-path  

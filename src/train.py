@@ -25,8 +25,8 @@ if __name__ == "__main__":
 
     # PREPROCESS DATA ----------------------------------------------- #
     #Create a new directory named PreprocessedDataset (takes time)
-    #p = Preprocessor()
-    #p.preprocess()
+    p = Preprocessor()
+    p.preprocess()
     # --------------------------------------------------------------- #
 
     es  = Model()
